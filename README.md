@@ -42,7 +42,7 @@ import { NgModule } from '@angular/core';
 import { AppComponent } from './app.component';
 
 // Import the library
-import { NgxImageZoomModule } from 'ngx-img-zoom';
+import { NgxImgZoomModule } from 'ngx-img-zoom';
 
 @NgModule({
   declarations: [
